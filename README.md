@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## There is the place where I will release some of my source codes.
+## StickTechです、コードを上げます！
 
-📫 Get in touch:
-YouTube: 
+联络方式:
+[Bilibili](https://space.bilibili.com/248582596) | [YouTube](https://www.youtube.com/channel/UCdTS3wjHbLnbQ6-x-7LLJQA) | <stick-tech@outlook.com>
