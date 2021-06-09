@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## StickTechです、コードを上げます！
+## StickTechです。コードをあげます。
 
 联络方式:
 [Bilibili](https://space.bilibili.com/248582596) | [YouTube](https://www.youtube.com/channel/UCdTS3wjHbLnbQ6-x-7LLJQA) | <stick-tech@outlook.com>
