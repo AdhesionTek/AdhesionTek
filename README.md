@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 ## StickTechです。コードをあげます。
 
 联络方式:
-[Bilibili](https://space.bilibili.com/248582596) | [YouTube](https://www.youtube.com/channel/UCdTS3wjHbLnbQ6-x-7LLJQA) | [Email](stick-tech@outlook.com)
+[Bilibili](https://space.bilibili.com/248582596) | [YouTube](https://www.youtube.com/channel/UCdTS3wjHbLnbQ6-x-7LLJQA) | [Email](mailto:email@example.com)
