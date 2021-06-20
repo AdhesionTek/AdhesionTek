@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 
 ## StickTechです。コードをあげます。
 
-How to reach me:
+找到我:
 
 [Bilibili](https://space.bilibili.com/248582596) | [YouTube](https://www.youtube.com/channel/UCdTS3wjHbLnbQ6-x-7LLJQA) | [Email](mailto:stick-tech@outlook.com)
