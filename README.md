@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## StickTechです。コードをあげます。
+## AdhesionTekです。コードをあげます。
 
 找到我:
 
